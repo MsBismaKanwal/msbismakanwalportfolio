@@ -1,7 +1,7 @@
 {
-    "name": "Mark Choi",
+    "name": "BISMA KANWAL",
 
-    "profilePictureUrl": "images/pictures/profile-picture.jpg",
+    "profilePictureUrl": "images/pictures/profile-picture.png",
     "resumePdfUrl": "",
 
     "statusCircleVisible": true,
@@ -10,8 +10,8 @@
 
     "locales": {
         "en": {
-            "localized_name": "Mark Choi",
-            "localized_name_stylized": " [[Mark {{Choi}}]]",
+            "localized_name": "BISMA KANWAL",
+            "localized_name_stylized": " [[BISMA {{KANWAL}}]]",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
                 "Backend Developer",
@@ -19,7 +19,7 @@
                 "DevOps Engineer",
                 "UX Designer"
             ],
-            "name_pronunciation_ipa": "/mark chwe/",
+            "name_pronunciation_ipa": "/bisma kanwal/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         },
         "es": {

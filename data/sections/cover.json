@@ -5,19 +5,19 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Mark Choi!}}"
+                "title_long": "I'm {{BISMA KANWAL!}}"
             },
             "es": {
                 "title_short": "¡Saludos!",
                 "title_short_nav": "Sobre mí",
                 "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Mark Choi!}}"
+                "title_long": "Soy {{BISMA KANWAL!}}"
             },
             "fr": {
                 "title_short": "Salut !",
                 "title_short_nav": "À propos",
                 "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Mark Choi !}}"
+                "title_long": "Je suis {BISMA KANWAL!}}"
             },
             "ko": {
                 "title_short": "환영합니다!",
