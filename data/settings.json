@@ -8,8 +8,7 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "<strong>Portfolio</strong>",
-        "subtitle": "by BISMA KANWAL",
+        "subtitle": "BISMA KANWAL'S PORTFOLIO",
         "logoOffset": {
             "right": 14,
             "top": 2,
@@ -104,8 +103,8 @@
             {
                 "description": "Developer Info:",
                 "list": [
-                    "GitHub: https://github.com/MsBismakawal",
-                    "Website: https://bismakanwak.com"
+                    "GitHub: https://github.com/msbismakawal",
+                    "Website: https://bismakanwal.com"
                 ],
                 "listStyle": "bulleted"
             }

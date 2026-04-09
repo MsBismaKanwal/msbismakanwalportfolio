@@ -33,9 +33,9 @@
             "id": 1,
             "component": "ArticleContactForm",
             "settings": {
-                "email_js_public_key": "tzObcsmOwHvPy6Rhp",
-                "email_js_service_id": "service_4h8g7vb",
-                "email_js_template_id": "template_react"
+                "email_js_public_key": "-TMIQ5rmPk0D61c84",
+                "email_js_service_id": "msbismakanwal",
+                "email_js_template_id": "template_9fmtpyq"
             },
             "locales": {
                 "en": {
@@ -82,12 +82,12 @@
             "items": [
                 {
                     "id": 1,
-                    "faIcon": "fa-solid fa-phone",
+                    "faIcon": "fa-brands fa-whatsapp",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "+1 (123) 456-7890",
-                    "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
+                    "label": "+923188364685",
+                    "link": {"href": "tel:+23188364685", "tooltipString": "call_me"},
                     "locales": {
-                        "en": {"title": "Phone"},
+                        "en": {"title": "WhatsApp"},
                         "es": {"title": "Teléfono"},
                         "fr": {"title": "Téléphone"},
                         "ko": {"title": "전화"}
@@ -97,8 +97,8 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "mark.choi@email.com",
-                    "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
+                    "label": "msbismakanwal@gmail.com",
+                    "link": {"href": "mailto:msbismakanwal@gmail.com", "tooltipString": "email_me"},
                     "locales": {
                         "en": {"title": "E-mail"},
                         "ko": {"title": "이메일"}
@@ -108,8 +108,8 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
+                    "label": "Bisma Kanwal",
+                    "link": {"href": "https://linkedin.com/in/msbismakanwal", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
                         "ko": {"title": "링크드인"}
@@ -119,7 +119,7 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Mark Choi",
+                    "label": "Bisma Kanwal",
                     "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Facebook"},
@@ -130,8 +130,8 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@codingmark",
-                    "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
+                    "label": "@msbismakanwal",
+                    "link": {"href": "https://instagram.com/msbismakanwal", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Instagram"},
                         "ko": {"title": "인스타그램"}
@@ -141,8 +141,8 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "label": "@msbismakanwal",
+                    "link": {"href": "https://tiktok.com/@msbismakanwal", "tooltipString": "open_website"},
                     "locales": {
                         "en": { "title": "TikTok" },
                         "ko": { "title": "틱톡" }
