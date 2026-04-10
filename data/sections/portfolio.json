@@ -6,24 +6,6 @@
                 "title_short_nav": "Portfolio",
                 "title_long_prefix": "Take a look at",
                 "title_long": "My {{Portfolio}}"
-            },
-            "es": {
-                "title_short": "Portafolio",
-                "title_short_nav": "Portafolio",
-                "title_long_prefix": "Explora",
-                "title_long": "Mi {{Portafolio}}"
-            },
-            "fr": {
-                "title_short": "Portfolio",
-                "title_short_nav": "Portfolio",
-                "title_long_prefix": "Découvrez",
-                "title_long": "Mon {{Portfolio}}"
-            },
-            "ko": {
-                "title_short": "포트폴리오",
-                "title_short_nav": "포트폴리오",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{포트폴리오}}입니다"
             }
         }
     },
@@ -35,31 +17,13 @@
             "locales": {
                 "en": {
                     "category_all": "All",
-                    "category_apps": "Apps",
+                    "category_logo": "Logo",
                     "category_web": "Web",
-                    "category_utilities": "Utilities"
-                },
-                "es": {
-                    "category_all": "Todo",
-                    "category_apps": "Apps",
-                    "category_web": "Web",
-                    "category_utilities": "Utilidades"
-                },
-                "fr": {
-                    "category_all": "Tout",
-                    "category_apps": "Apps",
-                    "category_web": "Web",
-                    "category_utilities": "Utilitaires"
-                },
-                "ko": {
-                    "category_all": "모두",
-                    "category_apps": "앱",
-                    "category_web": "웹",
-                    "category_utilities": "유틸리티"
+                    "category_graphics": "Graphics"
                 }
             },
             "settings": {
-                "categorize_by": ["category_apps", "category_web", "category_utilities"],
+                "categorize_by": ["category_logo", "category_web", "category_graphics"],
                 "order_items_by": "id",
                 "order_items_sort": "asc"
             },
@@ -90,24 +54,12 @@
                             "title": "BrainPulse",
                             "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
                             "tags": ["API", "REST", "Backend"]
-                        },
-                        "es": {
-                            "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
-                            "tags": ["API", "REST", "Backend"]
-                        },
-                        "fr": {
-                            "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-                            "tags": ["API", "REST", "Backend"]
-                        },
-                        "ko": {
-                            "text": "<b>Node.js</b>로 구축된 <b>RESTful API</b> 백엔드로, 고성능 데이터 처리 및 실시간 이벤트 처리용으로 설계되었습니다.",
-                            "tags": ["API", "REST", "Backend"]
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "categoryId": "category_apps",
+                    "categoryId": "category_logo",
                     "img": "images/pictures/portfolio-project-logo-7.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -132,24 +84,12 @@
                             "title": "MailM8",
                             "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
                             "tags": ["Flutter", "E-mail", "Communication"]
-                        },
-                        "es": {
-                            "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
-                            "tags": ["Flutter", "Correo", "Comunicación"]
-                        },
-                        "fr": {
-                            "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
-                        },
-                        "ko": {
-                            "text": "<b>Flutter</b>로 구축된 크로스플랫폼 이메일 클라이언트로, 이메일 <b>관리</b>를 위한 직관적인 UI를 통해 효율적인 소통을 제공합니다.",
-                            "tags": ["Flutter", "이메일", "소통"]
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "categoryId": "category_apps",
+                    "categoryId": "category_logo",
                     "img": "images/pictures/portfolio-project-logo-6.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},

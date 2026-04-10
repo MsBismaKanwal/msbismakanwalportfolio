@@ -15,10 +15,7 @@
       "id": 1,
       "component": "ArticleCards",
       "locales": {
-        "en": { "title": "Certifications" },
-        "es": { "title": "Certificaciones" },
-        "fr": { "title": "Certifications" },
-        "ko": { "title": "인증서" }
+        "en": { "title": "Certifications" }
       },
       "settings": {
         "order_items_by": "id",
@@ -31,11 +28,11 @@
   "faIcon": "",
   "faIconColors": { "bg": "", "fill": "" },
   "date": { "year": 2020, "month": 12 },
-  "link": { "href": "https://www.linuxfoundation.org/", "tooltipString": "see_certification" },
+  "link": { "href": "https://coursera.org/share/1aa1cc2f1f999b4c6dfce51dbe3caf75", "tooltipString": "see_certification" },
   "locales": {
     "en": {
-      "title": "The {{Linux Foundation}}",
-      "text": "Certified Kubernetes Administrator (CKA)"
+      "title": "{{Coursera}}",
+      "text": "Certified Design Fundamentals with AI"
     }
   }
 },
@@ -45,11 +42,11 @@
   "faIcon": "",
   "faIconColors": { "bg": "", "fill": "" },
   "date": { "year": 2020, "month": 12 },
-          "link": { "href": "https://www.aws.com/", "tooltipString": "see_certification" },
+          "link": { "href": "https://drive.google.com/file/d/13lUdMZSSfLjqy-OlbRlBIaD7iG0Lylyd/view?usp=drive_link", "tooltipString": "see_certification" },
           "locales": {
             "en": {
-              "title": "{{Amazon}} Web Services",
-              "text": "AWS Certified Solutions Architect – Associate"
+              "title": "{{Cisco}} Networking Academy",
+              "text": "Certified C++ Essentials"
             }
           }
         },
@@ -58,12 +55,12 @@
           "img": "images/pictures/navttc.png",
   "faIcon": "",
   "faIconColors": { "bg": "", "fill": "" },
-  "date": { "year": 2020, "month": 12 },
-          "link": { "href": "https://www.oracle.com/", "tooltipString": "see_certification" },
+  "date": { "year": 2025, "month": 7 },
+          "link": { "href": "https://drive.google.com/file/d/1z6AzTjRY6PgtDAur5cEFYQsgZG6Tr551/view?usp=drive_link", "tooltipString": "see_certification" },
           "locales": {
             "en": {
-              "title": "{{Oracle}}",
-              "text": "Certified Java Developer"
+              "title": "{{NAVTTC}} National Vocational & Technical Training Commission",
+              "text": "Certified JavaScript Full-Stack(MERN/MEAN) Developer"
             }
           }
         },
