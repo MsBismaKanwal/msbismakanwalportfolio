@@ -8,10 +8,11 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "subtitle": "BISMA KANWAL'S PORTFOLIO",
+        "title": "BISMA KANWAL",
+        
         "logoOffset": {
             "right": 14,
-            "top": 2,
+            "top": 1,
             "bottom": 0
         }
     },

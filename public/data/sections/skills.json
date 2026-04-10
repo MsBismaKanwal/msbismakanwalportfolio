@@ -51,14 +51,14 @@
                 {
                     "id": 3,
                     "img": "",
-                    "faIcon": "fa-solid fa-mobile-screen-button",
+                    "faIcon": "fa-solid fa-pen-nib",
                     "faIconColors": {"bg": "", "fill": ""},
                     "date": {"year": null, "month": null},
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "{{App}} creation",
-                            "text": "I can make creative and innovative apps!"
+                            "title": "{{Logo}} creation",
+                            "text": "I can create creative and innovative logos!"
                         }
                     }
                 },
