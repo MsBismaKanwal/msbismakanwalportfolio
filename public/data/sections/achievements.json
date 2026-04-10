@@ -2,28 +2,10 @@
   "title": {
     "locales": {
       "en": {
-        "title_short": "Awards",
+        "title_short": "Achievements",
         "title_short_nav": "Achievements",
         "title_long_prefix": "Here are my",
         "title_long": "Career {{Achievements}}"
-      },
-      "es": {
-        "title_short": "Logros",
-        "title_short_nav": "Logros",
-        "title_long_prefix": "Aquí están mis",
-        "title_long": "{{Logros}} Profesionales"
-      },
-      "fr": {
-        "title_short": "Réalis",
-        "title_short_nav": "Réalisations",
-        "title_long_prefix": "Voici",
-        "title_long": "Mes {{Réalisations}}"
-      },
-      "ko": {
-        "title_short": "경력 성과",
-        "title_short_nav": "경력 성과",
-        "title_long_prefix": "다음은",
-        "title_long": "{{경력 성과}}입니다"
       }
     }
   },
@@ -54,10 +36,7 @@
     "en": {
       "title": "The {{Linux Foundation}}",
       "text": "Certified Kubernetes Administrator (CKA)"
-    },
-    "es": { "text": "Administrador de Kubernetes Certificado (CKA)" },
-    "fr": { "text": "Administrateur Kubernetes Certifié (CKA)" },
-    "ko": { "text": "Kubernetes 인증 관리자 (CKA)" }
+    }
   }
 },
         {
@@ -71,10 +50,7 @@
             "en": {
               "title": "{{Amazon}} Web Services",
               "text": "AWS Certified Solutions Architect – Associate"
-            },
-            "es": { "text": "Arquitecto de Soluciones Certificado por AWS - Asociado" },
-            "fr": { "text": "Architecte de Solutions Certifié AWS - Associé" },
-            "ko": { "text": "AWS 공인 솔루션 아키텍트 - 준회원" }
+            }
           }
         },
         {
@@ -88,10 +64,7 @@
             "en": {
               "title": "{{Oracle}}",
               "text": "Certified Java Developer"
-            },
-            "es": { "text": "Desarrollador Java Certificado" },
-            "fr": { "text": "Développeur Java Certifié" },
-            "ko": { "text": "공인 자바 개발자" }
+            }
           }
         },
         {
@@ -105,10 +78,7 @@
             "en": {
               "title": "{{MongoDB}} University",
               "text": "MongoDB Certified Developer"
-            },
-            "es": { "text": "Desarrollador Certificado de MongoDB" },
-            "fr": { "text": "Développeur Certifié MongoDB" },
-            "ko": { "text": "MongoDB 공인 개발자" }
+            }
           }
         }
       ]
