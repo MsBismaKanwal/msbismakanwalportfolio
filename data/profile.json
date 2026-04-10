@@ -20,45 +20,6 @@
             ],
             "name_pronunciation_ipa": "/bisma kanwal/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
-        },
-        "es": {
-            "localized_name": "BISMA KANWAL",
-            "localized_name_stylized": " [[BISMA {{KANWAL}}]]",
-            "status_message_available_for_freelance": "¡Disponible para freelance!",
-            "roles": [
-                "Desarrollador React.js",
-                "Desarrollador Frontend",
-                "Diseñador Gráfico",
-                "Diseñador de Logotipos"
-            ],
-            "name_pronunciation_ipa": "/bisma kanwal/",
-            "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
-        },
-        "fr": {
-            "localized_name": "BISMA KANWAL",
-            "localized_name_stylized": " [[BISMA {{KANWAL}}]]",
-            "status_message_available_for_freelance": "Disponible pour freelance !",
-            "roles": [
-                "Développeur React.js",
-                "Développeur Frontend",
-                "Designer Graphique",
-                "Designer de Logos"
-            ],
-            "name_pronunciation_ipa": "/bisma kanwal/",
-            "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
-        },
-        "ko": {
-            "localized_name": "BISMA KANWAL",
-            "localized_name_stylized": " [[BISMA {{KANWAL}}]]",
-            "status_message_available_for_freelance": "프리랜스 가능합니다!",
-            "roles": [
-                "React.js 개발자",
-                "프론트엔드 개발자",
-                "그래픽 디자이너",
-                "로고 디자이너"
-            ],
-            "name_pronunciation_ipa": "/bisma kanwal/",
-            "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         }
     }
 }

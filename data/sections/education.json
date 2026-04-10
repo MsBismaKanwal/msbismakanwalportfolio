@@ -6,24 +6,6 @@
         "title_short_nav": "Education",
         "title_long_prefix": "This is my",
         "title_long": "{{Education}} Background"
-      },
-      "es": {
-        "title_short": "Educación",
-        "title_short_nav": "Educación",
-        "title_long_prefix": "Esta es mi",
-        "title_long": "{{Formación}} Educativa"
-      },
-      "fr": {
-        "title_short": "Éducation",
-        "title_short_nav": "Éducation",
-        "title_long_prefix": "C'est mon",
-        "title_long": "{{Contexte}} Éducatif"
-      },
-      "ko": {
-        "title_short": "교육",
-        "title_short_nav": "교육",
-        "title_long_prefix": "이것은 내",
-        "title_long": "{{교육적}} 배경"
       }
     }
   },
@@ -50,27 +32,6 @@
               "country": "Pakistan",
               "institution": "Virtual University of Pakistan",
               "text": "Currently pursuing a Bachelor's degree in Computer Science, focusing on algorithms, data structures, software engineering, and web development."
-            },
-            "es": {
-              "title": "Bachelor en Ciencias de la Computación",
-              "province": "Punjab",
-              "country": "Pakistán",
-              "institution": "Virtual University of Pakistan",
-              "text": "Actualmente cursando una licenciatura en Ciencias de la Computación, con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web."
-            },
-            "fr": {
-              "title": "Licence en Informatique",
-              "province": "Punjab",
-              "country": "Pakistan",
-              "institution": "Virtual University of Pakistan",
-              "text": "Actuellement en licence d'informatique, avec une spécialisation en algorithmes, structures de données et développement web."
-            },
-            "ko": {
-              "title": "컴퓨터 과학 학사",
-              "province": "Punjab",
-              "country": "파키스탄",
-              "institution": "Virtual University of Pakistan",
-              "text": "현재 컴퓨터 과학 학사 과정을 진행 중이며 알고리즘, 자료 구조 및 웹 개발에 중점을 두고 있습니다."
             }
           }
         }
