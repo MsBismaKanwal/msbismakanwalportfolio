@@ -70,11 +70,11 @@
   "faIcon": "",
   "faIconColors": { "bg": "", "fill": "" },
   "date": { "year": 2020, "month": 12 },
-          "link": { "href": "https://www.mongodb.com/", "tooltipString": "see_certification" },
+          "link": { "href": "https://drive.google.com/file/d/1CriSInAwjfhjRKM40q6PSUQHITMOPjBA/view?usp=drive_link", "tooltipString": "see_certification" },
           "locales": {
             "en": {
-              "title": "{{MongoDB}} University",
-              "text": "MongoDB Certified Developer"
+              "title": "{{Cisco}} Networking Academy",
+              "text": "Certified CCNA-Introduction to Networks"
             }
           }
         }
