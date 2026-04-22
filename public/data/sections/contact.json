@@ -41,16 +41,7 @@
                 "en": {"title": "Or if you {{prefer}}..."}
             },
             "items": [
-                {
-                    "id": 1,
-                    "faIcon": "fa-brands fa-whatsapp",
-                    "faIconColors": { "bg": "", "fill": "" },
-                    "label": "+923188364685",
-                    "link": {"href": "tel:+23188364685", "tooltipString": "call_me"},
-                    "locales": {
-                        "en": {"title": "WhatsApp"}
-                    }
-                },
+             
                 {
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
@@ -69,36 +60,6 @@
                     "link": {"href": "https://linkedin.com/in/msbismakanwal", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"}
-                    }
-                },
-                {
-                    "id": 4,
-                    "faIcon": "fa-brands fa-facebook",
-                    "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Bisma Kanwal",
-                    "link": {"href": "https://www.facebook.com/share/17MMggzkFV/", "tooltipString": "open_website"},
-                    "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-                {
-                    "id": 5,
-                    "faIcon": "fa-brands fa-instagram",
-                    "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@msbismakanwal",
-                    "link": {"href": "https://instagram.com/msbismakanwal", "tooltipString": "open_website"},
-                    "locales": {
-                        "en": {"title": "Instagram"}
-                    }
-                },
-                {
-                    "id": 6,
-                    "faIcon": "fa-brands fa-tiktok",
-                    "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@msbismakanwal",
-                    "link": {"href": "https://tiktok.com/@msbismakanwal", "tooltipString": "open_website"},
-                    "locales": {
-                        "en": { "title": "TikTok" }
                     }
                 }
             ]
