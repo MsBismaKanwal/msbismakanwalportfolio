@@ -47,19 +47,6 @@
             ],
             "name_pronunciation_ipa": "/bisma kanwal/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
-        },
-        "ko": {
-            "localized_name": "BISMA KANWAL",
-            "localized_name_stylized": " [[BISMA {{KANWAL}}]]",
-            "status_message_available_for_freelance": "프리랜스 가능합니다!",
-            "roles": [
-                "React.js 개발자",
-                "프론트엔드 개발자",
-                "그래픽 디자이너",
-                "로고 디자이너"
-            ],
-            "name_pronunciation_ipa": "/bisma kanwal/",
-            "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         }
     }
 }
